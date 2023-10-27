@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haticeadiguzel
-- 👀 I’m interested in web design, app design, game design and robotics
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning python and javascript
 - 💞️ I’m looking to collaborate on create projects
 - 📫 How to reach me adiguzell.hatice@gmail.com
