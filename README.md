@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning python and javascript
 - 💞️ I’m looking to collaborate on create projects
-- 📫 How to reach me adiguzell.hatice@gmail.com
+- 📫 How to reach me 
 
 <!---
 haticeadiguzel/haticeadiguzel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
