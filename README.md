@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @haticeadiguzel
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning python and javascript
+- 🌱 I’m currently working with Java and React
 - 💞️ I’m looking to collaborate on create projects
-- 📫 How to reach me 
+- 📫 How to reach me adiguzell.hatice@gmail.com
 
 <!---
 haticeadiguzel/haticeadiguzel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
