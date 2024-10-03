@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haticeadiguzel
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently working with Java and React
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently working with python
 - 💞️ I’m looking to collaborate on create projects
 - 📫 How to reach me adiguzell.hatice@gmail.com
 
