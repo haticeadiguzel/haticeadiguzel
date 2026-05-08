@@ -1,4 +1,4 @@
-![Banner](./a_wide_dark_themed_professional_tech_banner_hero.png)
+![Banner](./banner.png)
 
 # Hi, I'm Hatice Adıgüzel 👩‍💻
 
