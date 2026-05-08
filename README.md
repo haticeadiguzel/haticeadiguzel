@@ -2,6 +2,8 @@
 
 **Solution Engineer · Backend Engineer · Electrical & Electronics Engineer**
 
+💡 Note: Most of my work is on private enterprise repositories in a cybersecurity platform.
+
 ---
 
 ## 🚀 About me
