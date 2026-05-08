@@ -1,3 +1,5 @@
+![Banner](./a_wide_dark_themed_professional_tech_banner_hero.png)
+
 # Hi, I'm Hatice Adıgüzel 👩‍💻
 
 **Solution Engineer · Backend Engineer · Electrical & Electronics Engineer**
