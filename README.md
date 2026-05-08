@@ -4,8 +4,6 @@
 
 **Solution Engineer · Backend Engineer · Electrical & Electronics Engineer**
 
-💡 Note: Most of my work is on private enterprise repositories in a cybersecurity platform.
-
 ---
 
 ## 🚀 About me
@@ -13,6 +11,10 @@
 Electrical & Electronics Engineering graduate with a backend development background, currently working as a **Solution Engineer** in a Cyber Asset Attack Surface Management (CAASM) platform.
 
 I focus on building and integrating scalable, secure systems and translating technical requirements into reliable engineering solutions. Recently, I’ve been working on AI-driven integrations and modern backend architectures.
+
+## 📊 GitHub Activity
+
+Most of my engineering work is done in private, company-owned repositories focused on cybersecurity and production backend systems.
 
 ---
 
